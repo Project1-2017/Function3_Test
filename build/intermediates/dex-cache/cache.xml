@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/674b22217f8e8f303a945cf9486983e261b2957f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/atul/AndroidStudioProjects/Function3/app/build/intermediates/pre-dexed/debug/classes_a489ff2bbb8d1e98d4c7d3c0609bdeb5c2fb7a58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/27c8861e8738e68613588590598010ee0e1ea192/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/atul/AndroidStudioProjects/Function3/app/build/intermediates/pre-dexed/debug/classes_d579496243e7d54f578db6723119d414663c5569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/0913fb4287eb0d7f3d8167bea489c165a2627730/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/home/atul/AndroidStudioProjects/Function3/app/build/intermediates/pre-dexed/debug/classes_85b562c720ec35d795c61c10c504ed11b8b838e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/7c605d374039aabc89ac7bd68642af7920770b03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/home/atul/AndroidStudioProjects/Function3/app/build/intermediates/pre-dexed/debug/classes_55fc0e93bbd6f9ff93ede79f75298fea9dd9b97b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/438574e89bd9b36c270d38c7f73711be8a590bb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="/home/atul/AndroidStudioProjects/Function3/app/build/intermediates/pre-dexed/debug/classes_884074ceffd5cdb11f5524d8cefc979116083402.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/atul/AndroidStudioProjects/Function3/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_cf1948d24e16a7679580cd917329fa8b1d71a8d7.jar" />
+    </item>
+
+</items>

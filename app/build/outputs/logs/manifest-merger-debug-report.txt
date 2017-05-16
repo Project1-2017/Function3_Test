@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/atul/.android/build-cache/a1f702929202a4bca84440b4dd3d44a9b51ab16f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/atul/.android/build-cache/c2544e21664d90ebf0ffb492a2d296d842d89532/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.3.0] /home/atul/.android/build-cache/438574e89bd9b36c270d38c7f73711be8a590bb3/output/AndroidManifest.xml:20:5-25:19
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/atul/.android/build-cache/674b22217f8e8f303a945cf9486983e261b2957f/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/atul/.android/build-cache/68bcfcb4121537d0c178cfb01836c47d74b85de9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/atul/.android/build-cache/9e6995be8e2ec2c9014c9ecc71f221b99dd0056c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/atul/.android/build-cache/1cce8a2e4610ab41ca72cfa8e81e2cf2e855e833/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/atul/.android/build-cache/e69d6d85d623c72f8b52a9dbd4c051ef1c852e37/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/atul/.android/build-cache/d8ed61346d9bbbaac19acbe53a730e6f1882d228/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/atul/.android/build-cache/83fb10c040f5fcfbb89f6ba24d30ca43794646fa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/atul/.android/build-cache/7c605d374039aabc89ac7bd68642af7920770b03/output/AndroidManifest.xml:5:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/atul/.android/build-cache/27c8861e8738e68613588590598010ee0e1ea192/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:11:9-40
+activity#xyz.softearesolutions.function3.MainActivity
+ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/atul/.android/build-cache/a1f702929202a4bca84440b4dd3d44a9b51ab16f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/atul/.android/build-cache/c2544e21664d90ebf0ffb492a2d296d842d89532/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:8.3.0] /home/atul/.android/build-cache/438574e89bd9b36c270d38c7f73711be8a590bb3/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:8.3.0] /home/atul/.android/build-cache/0913fb4287eb0d7f3d8167bea489c165a2627730/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/atul/.android/build-cache/674b22217f8e8f303a945cf9486983e261b2957f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] /home/atul/.android/build-cache/68bcfcb4121537d0c178cfb01836c47d74b85de9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/atul/.android/build-cache/9e6995be8e2ec2c9014c9ecc71f221b99dd0056c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/atul/.android/build-cache/1cce8a2e4610ab41ca72cfa8e81e2cf2e855e833/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/atul/.android/build-cache/e69d6d85d623c72f8b52a9dbd4c051ef1c852e37/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/atul/.android/build-cache/d8ed61346d9bbbaac19acbe53a730e6f1882d228/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/atul/.android/build-cache/83fb10c040f5fcfbb89f6ba24d30ca43794646fa/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/atul/.android/build-cache/7c605d374039aabc89ac7bd68642af7920770b03/output/AndroidManifest.xml:3:5-72
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/atul/.android/build-cache/27c8861e8738e68613588590598010ee0e1ea192/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/atul/AndroidStudioProjects/Function3/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/atul/.android/build-cache/a1f702929202a4bca84440b4dd3d44a9b51ab16f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/atul/.android/build-cache/c2544e21664d90ebf0ffb492a2d296d842d89532/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/atul/.android/build-cache/68bcfcb4121537d0c178cfb01836c47d74b85de9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/atul/.android/build-cache/9e6995be8e2ec2c9014c9ecc71f221b99dd0056c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/atul/.android/build-cache/1cce8a2e4610ab41ca72cfa8e81e2cf2e855e833/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/atul/.android/build-cache/e69d6d85d623c72f8b52a9dbd4c051ef1c852e37/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/atul/.android/build-cache/d8ed61346d9bbbaac19acbe53a730e6f1882d228/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/atul/.android/build-cache/83fb10c040f5fcfbb89f6ba24d30ca43794646fa/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/atul/.android/build-cache/438574e89bd9b36c270d38c7f73711be8a590bb3/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/atul/.android/build-cache/438574e89bd9b36c270d38c7f73711be8a590bb3/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/atul/.android/build-cache/438574e89bd9b36c270d38c7f73711be8a590bb3/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/atul/.android/build-cache/438574e89bd9b36c270d38c7f73711be8a590bb3/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/atul/.android/build-cache/438574e89bd9b36c270d38c7f73711be8a590bb3/output/AndroidManifest.xml:21:19-72
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.3.0] /home/atul/.android/build-cache/674b22217f8e8f303a945cf9486983e261b2957f/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] /home/atul/.android/build-cache/674b22217f8e8f303a945cf9486983e261b2957f/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.3.0] /home/atul/.android/build-cache/674b22217f8e8f303a945cf9486983e261b2957f/output/AndroidManifest.xml:22:13-58
